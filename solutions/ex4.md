@@ -1,0 +1,11 @@
+**Exercise: 4**
+
+Find all records from the Printer table containing data about color printers.
+
+**Solution**
+
+```sql
+SELECT *
+FROM printer
+WHERE color = 'y'
+```
