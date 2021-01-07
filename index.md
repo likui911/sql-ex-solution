@@ -26,3 +26,17 @@
 12. [Find out the average speed of the laptops priced over $1000.](./solutions/ex12.md)
 
 13. [Find out the average speed of the PCs produced by maker A.](./solutions/ex13.md)
+
+14. [For the ships in the Ships table that have at least 10 guns, get the class, name, and country.](./solutions/ex14.md)
+
+15. [Get hard drive capacities that are identical for two or more PCs.Result set: hd.](./solutions/ex15.md)
+
+16. [Get pairs of PC models with identical speeds and the same RAM capacity. Each resulting pair should be displayed only once, i.e. (i, j) but not (j, i).Result set: model with the bigger number, model with the smaller number, speed, and RAM.](./solutions/ex16.md)
+
+17. [Get the laptop models that have a speed smaller than the speed of any PC.Result set: type, model, speed.](./solutions/ex17.md)
+
+18. [Find the makers of the cheapest color printers.Result set: maker, price.](./solutions/ex18.md)
+
+19. [For each maker having models in the Laptop table, find out the average screen size of the laptops he produces.Result set: maker, average screen size.](./solutions/ex19.md)
+
+20. [Find the makers producing at least three distinct models of PCs.Result set: maker, number of PC models.](./solutions/ex20.md)
