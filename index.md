@@ -50,3 +50,9 @@
 24. [List the models of any type having the highest price of all products present in the database.](./solutions/ex24.md)
 
 25. [Find the printer makers also producing PCs with the lowest RAM capacity and the highest processor speed of all PCs having the lowest RAM capacity.Result set: maker.](./solutions/ex25.md)
+
+26. [Find out the average price of PCs and laptops produced by maker A.Result set: one overall average price for all items.](./solutions/ex26.md)
+
+27. [Find out the average hard disk drive capacity of PCs produced by makers who also manufacture printers.Result set: maker, average HDD capacity.](./solutions/ex27.md)
+
+28. [Using Product table, find out the number of makers who produce only one model.](./solutions/ex28.md)
