@@ -40,3 +40,18 @@
 19. [For each maker having models in the Laptop table, find out the average screen size of the laptops he produces.Result set: maker, average screen size.](./solutions/ex19.md)
 
 20. [Find the makers producing at least three distinct models of PCs.Result set: maker, number of PC models.](./solutions/ex20.md)
+
+21. [Find out the maximum PC price for each maker having models in the PC table. Result set: maker, maximum price.](./solutions/ex21.md)
+
+22. [For each value of PC speed that exceeds 600 MHz, find out the average price of PCs with identical speeds.
+Result set: speed, average price.
+](./solutions/ex22.md)
+
+23. [Get the makers producing both PCs having a speed of 750 MHz or higher and laptops with a speed of 750 MHz or higher.
+Result set: maker](./solutions/ex23.md)
+
+24. [List the models of any type having the highest price of all products present in the database.
+](./solutions/ex24.md)
+
+25. [Find the printer makers also producing PCs with the lowest RAM capacity and the highest processor speed of all PCs having the lowest RAM capacity.
+Result set: maker.](./solutions/ex25.md)
