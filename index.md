@@ -62,3 +62,11 @@
 30. [Under the assumption that receipts of money (inc) and payouts (out) can be registered any number of times a day for each collection point [i.e. the code column is the primary key], display a table with one corresponding row for each operating date of each collection point.Result set: point, date, total payout per day (out), total money intake per day (inc).Missing values are considered to be NULL.](./solutions/ex30.md)
 
 31. [For ship classes with a gun caliber of 16 in. or more, display the class and the country.](./solutions/ex31.md)
+
+32. [One of the characteristics of a ship is one-half the cube of the calibre of its main guns (mw).Determine the average ship mw with an accuracy of two decimal places for each country having ships in the database.](./solutions/ex32.md)
+
+33. [Get the ships sunk in the North Atlantic battle.Result set: ship.](./solutions/ex33.md)
+
+34. [In accordance with the Washington Naval Treaty concluded in the beginning of 1922, it was prohibited to build battle ships with a displacement of more than 35 thousand tons.Get the ships violating this treaty (only consider ships for which the year of launch is known).List the names of the ships.](./solutions/ex34.md)
+
+35. [Find models in the Product table consisting either of digits only or Latin letters (A-Z, case insensitive only.Result set: model, type.](./solutions/ex35.md)
