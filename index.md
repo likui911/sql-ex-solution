@@ -70,3 +70,9 @@
 34. [In accordance with the Washington Naval Treaty concluded in the beginning of 1922, it was prohibited to build battle ships with a displacement of more than 35 thousand tons.Get the ships violating this treaty (only consider ships for which the year of launch is known).List the names of the ships.](./solutions/ex34.md)
 
 35. [Find models in the Product table consisting either of digits only or Latin letters (A-Z, case insensitive only.Result set: model, type.](./solutions/ex35.md)
+
+36. [List the names of lead ships in the database (including the Outcomes table).](./solutions/ex36.md)
+
+37. [Find classes for which only one ship exists in the database (including the Outcomes table).](./solutions/ex37.md)
+
+38. [Find countries that ever had classes of both battleships (‘bb’) and cruisers (‘bc’).](./solutions/ex38.md)
