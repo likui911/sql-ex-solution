@@ -76,3 +76,17 @@
 37. [Find classes for which only one ship exists in the database (including the Outcomes table).](./solutions/ex37.md)
 
 38. [Find countries that ever had classes of both battleships (‘bb’) and cruisers (‘bc’).](./solutions/ex38.md)
+
+39. [Find the ships that `survived for future battles`; that is, after being damaged in a battle, they participated in another one, which occurred later.](./solutions/ex39.md)
+
+40. [Get the makers who produce only one product type and more than one model. Output: maker, type.](./solutions/ex40.md)
+
+41. [For each maker who has models at least in one of the tables PC, Laptop, or Printer, determine the maximum price for his products.Output: maker; if there are NULL values among the prices for the products of a given maker, display NULL for this maker, otherwise, the maximum price.](./solutions/ex41.md)
+
+42. [Find the names of ships sunk at battles, along with the names of the corresponding battles.](./solutions/ex42.md)
+
+43. [Get the battles that occurred in years when no ships were launched into water.](./solutions/ex43.md)
+
+44. [Find all ship names beginning with the letter R.](./solutions/ex44.md)
+
+45. [Find all ship names consisting of three or more words (e.g., King George V). Consider the words in ship names to be separated by single spaces, and the ship names to have no leading or trailing spaces.](./solutions/ex45.md)
