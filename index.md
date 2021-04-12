@@ -90,3 +90,5 @@
 44. [Find all ship names beginning with the letter R.](./solutions/ex44.md)
 
 45. [Find all ship names consisting of three or more words (e.g., King George V). Consider the words in ship names to be separated by single spaces, and the ship names to have no leading or trailing spaces.](./solutions/ex45.md)
+
+46. [For each ship that participated in the Battle of Guadalcanal, get its name, displacement, and the number of guns.](./solutions/ex46.md)
